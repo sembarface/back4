@@ -207,7 +207,6 @@ function isSelected($field, $value) {
             </table>
         </div>
 
-        <div class="forma m-2 p-2 m-md-3" id="forma">
     <div class="forma m-2 p-2 m-md-3" id="forma">
     <h1>Форма</h1>
     
